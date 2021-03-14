@@ -3,4 +3,4 @@
 変更
 conflict-remoteで変更conflict hassei
 rebase-practice
-rebase conflict gogo
+rebase conflict in rebase-practice
