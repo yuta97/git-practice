@@ -4,3 +4,4 @@
 conflict-remoteで変更conflict hassei
 rebase-practice
 rebase conflict in rebase-practice
+rebase　pull用
