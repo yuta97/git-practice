@@ -8,3 +8,4 @@ rebase　pull用
 not rebase
 status practice
 tracked
+2nd stash
