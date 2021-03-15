@@ -6,3 +6,4 @@ rebase-practice
 rebase conflict in rebase-practice
 rebase　pull用
 not rebase
+status practice
